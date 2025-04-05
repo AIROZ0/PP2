@@ -1,4 +1,4 @@
-path = "/Users/bekasyl2007amanshaevgmail.com/PP2_python/LAB_1/casting.py"  
+path = r"C:\Users\админ\Desktop\PROGA2\PP2\LAB_6\dir-and-files\t3.py"
 
 def count_lines(file_path):
     with open(file_path, "r", encoding="utf-8") as f:

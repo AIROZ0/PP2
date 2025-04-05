@@ -1,6 +1,6 @@
 import os
 
-path = "/Users/bekasyl2007amanshaevgmail.com/PP2_python/LAB_1"  
+path = r"C:\Users\админ\Downloads"
 
 def check_access(path):
     return {
