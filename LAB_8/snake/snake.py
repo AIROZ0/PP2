@@ -19,7 +19,7 @@ class Game:
     ceil__size = 20
     ceil__number = 20
     points = 0
-    level = 1
+    level = 1 
     level__points = points
     speed = 1
 
